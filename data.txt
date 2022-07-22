@@ -22,4 +22,4 @@ Canada,hyperion.p.shifter.io:30435:luanbg2022:today@0507
 Canada,hyperion.p.shifter.io:30436:luanbg2022:today@0507
 Canada,hyperion.p.shifter.io:30437:luanbg2022:today@0507
 Canada,hyperion.p.shifter.io:30438:luanbg2022:today@0507
-Canada,hyperion.p.shifter.io:30439:luanbg2022:today@0507
+Canada,hyperion.p.shifter.io:30439:luanbg2022:today@0508
